@@ -35,7 +35,7 @@ Dual OCR methods: Local (`pytesseract`) & Cloud (`OCR.Space`)
 
 ---
 
-## ⚙**Requirements**
+## **Requirements**
 
 ** Hardware:**
 
@@ -94,9 +94,9 @@ python license_plate_recognition.py
 
 ---
 
-## 👥 **Team**
+## **Team**
 
 Built by **\[Your Team Name]**
-📫 *Add your contact info here if you’d like!*
+ *Add your contact info here if you’d like!*
 
 ---
