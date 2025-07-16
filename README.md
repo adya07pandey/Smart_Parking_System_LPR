@@ -4,7 +4,7 @@
 ---
 
 ## **
-![Smart Parking System](images/system.jpg)
+![Smart Parking System](system.jpg)
 
 ---
 
