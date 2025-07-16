@@ -3,11 +3,11 @@
 
 ---
 
-## **![Smart Parking System](system.jpg)
+![Smart Parking System](system.jpg)
 
 ---
 
-Repository Structure**
+## **Repository Structure**
 
 ```
 Smart_Parking_System_LPR/
