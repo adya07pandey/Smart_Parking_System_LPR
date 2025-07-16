@@ -62,34 +62,6 @@ Dual OCR methods: Local (`pytesseract`) & Cloud (`OCR.Space`)
 
 ---
 
-##  **Setup & Run**
-
-1 **Install dependencies:**
-
-```bash
-pip install opencv-python pytesseract smbus2 RPLCD requests pillow
-```
-
-2️ **Connect hardware:**
-
-* Wire all sensors, servos & LCD as per GPIO pins in `parking_system.py`.
-
-3️ **Run the Parking System:**
-
-```bash
-python parking_system.py
-```
-
-4️ **Run License Plate Recognition:**
-
-```bash
-python license_plate_recognition.py
-```
-
->  **Tip:** Ensure the IP in `droidcam_url` is your camera’s correct IP.
-
----
-
 ## **How It Works**
 
 *  **Entry:** Vehicle detected → barrier opens → parking time logged → slot count updates.
