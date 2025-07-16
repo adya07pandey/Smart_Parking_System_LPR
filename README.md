@@ -2,6 +2,10 @@
 
 
 ---
+> 🏆 **Awarded:** *Best Student Exhibitor*  
+> 🥇 **1st Position, ICORT-2025** — *ITR DRDO, Balasore*
+
+---
 
 ![Smart Parking System](system.jpg)
 
