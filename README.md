@@ -1,7 +1,3 @@
-Got it! Here’s a **beautified version** of the README with clear, attractive headings and consistent formatting.
-
----
-
 # 🚗 **Smart Parking System with License Plate Recognition**
 
 ---
