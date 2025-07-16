@@ -3,8 +3,7 @@
 
 ---
 
-## **
-![Smart Parking System](system.jpg)
+## **![Smart Parking System](system.jpg)
 
 ---
 
