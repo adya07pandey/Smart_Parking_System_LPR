@@ -1,8 +1,14 @@
 # 🚗 **Smart Parking System with License Plate Recognition**
 
+
 ---
 
-## **Repository Structure**
+## **
+![Smart Parking System](images/system.jpg)
+
+---
+
+Repository Structure**
 
 ```
 Smart_Parking_System_LPR/
@@ -91,12 +97,5 @@ python license_plate_recognition.py
 *  **Exit:** Vehicle detected → fee calculated → barrier opens → slot freed.
 *  **Display:** LCD shows slots left & fee.
 *  **LPR:** Camera captures frames, extracts text with OCR, prints plate numbers.
-
----
-
-## **Team**
-
-Built by **\[Your Team Name]**
- *Add your contact info here if you’d like!*
 
 ---
