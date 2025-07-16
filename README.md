@@ -2,7 +2,7 @@ Got it! Here’s a **beautified version** of the README with clear, attractive h
 
 ---
 
-# 🚗✨ **Smart Parking System with License Plate Recognition**
+# 🚗 **Smart Parking System with License Plate Recognition**
 
 ---
 
